@@ -1,4 +1,3 @@
-# diabetes_mlops_production
 # 🏥 HealthPredict: End-to-End MLOps Pipeline & Diabetes Analysis.
 
 > **Bridging the gap between Machine Learning research and production using MLflow, Docker, and Railway.**
