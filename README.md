@@ -69,4 +69,4 @@ streamlit run app.py
 ```
 
 Thank You for visiting!!!
-By Shankari N
+Developed by Shankari N.
