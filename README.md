@@ -44,6 +44,7 @@ The application operates on a modern 3-tier MLOps structure:
 <img width="1887" height="941" alt="Screenshot 2026-04-29 154504" src="https://github.com/user-attachments/assets/466280d6-d58f-4f06-98eb-4ab8c5a7f990" />
 
 
+
 <img width="1884" height="931" alt="Screenshot 2026-04-29 154521" src="https://github.com/user-attachments/assets/0e05f6da-e980-4b78-958b-74ba95279ccd" />
 
 ## ⚙️ Installation & Setup
